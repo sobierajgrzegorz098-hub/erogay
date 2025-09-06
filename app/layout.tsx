@@ -8,7 +8,7 @@ import "./globals.css"
 import { Suspense } from "react"
 
 export const metadata: Metadata = {
-  title: "Sex Randki - Najlepsze Spotkania Erotyczne w Polsce | Erogay.pl",
+  title: "Gej Randki Erotyczne i Ogłoszenia na Sex - Portal dla Napalonych Gejów",
   description: "Erogay.pl",
   generator: "v0.app",
 }
