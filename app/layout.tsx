@@ -9,7 +9,7 @@ import { Suspense } from "react"
 
 export const metadata: Metadata = {
   title: "Sex Randki - Najlepsze Spotkania Erotyczne w Polsce | Erogay.pl",
-  description: "Landing page afiliacyjny dla gejów",
+  description: "Erogay.pl",
   generator: "v0.app",
 }
 
